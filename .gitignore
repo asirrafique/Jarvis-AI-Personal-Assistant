@@ -44,6 +44,8 @@ htmlcov/
 data/
 jarvis_context.json
 jarvis_memory.json
+jarvis_memory.db
+jarvis_memory_backup.json
 
 
 # ============================================================
