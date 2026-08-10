@@ -1,0 +1,4 @@
+ollama
+requests
+python-dotenv
+pytest
